@@ -21,4 +21,4 @@ void main(String[] args) {
 
 }
 
-// Ку
+// Ку-ку
